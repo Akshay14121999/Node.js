@@ -4,7 +4,7 @@ const url = require("url");
 const replaceTemplate = require("./modules/replaceTemplate");
 const slugify = require("slugify");
 
-const text = fs.readFileSync("input.txt", "utf-8");
+//const text = fs.readFileSync("input.txt", "utf-8");
 // console.log(text);
 
 // console.log('How are you??')
